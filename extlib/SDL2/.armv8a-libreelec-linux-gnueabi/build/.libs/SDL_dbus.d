@@ -1,0 +1,33 @@
+build/SDL_dbus.lo: \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/src/core/linux/SDL_dbus.c \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/src/core/linux/../../SDL_internal.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/src/core/linux/../../dynapi/SDL_dynapi.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/src/core/linux/../../dynapi/SDL_dynapi_overrides.h \
+ include/SDL_config.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_platform.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/begin_code.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/close_code.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/src/core/linux/SDL_dbus.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_stdinc.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_config.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-macros.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-address.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-types.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-errors.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-protocol.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-bus.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-connection.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-memory.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-message.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-shared.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-misc.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-pending-call.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-server.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-signature.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-syntax.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/toolchain/armv8a-libreelec-linux-gnueabi/sysroot/usr/include/dbus-1.0/dbus/dbus-threads.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_loadso.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_stdinc.h \
+ /root/usb/32_CoreELEC/build.Sx05RE-S905.arm-1.9/SDL2-2.0.8/include/SDL_error.h
